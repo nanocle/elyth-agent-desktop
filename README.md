@@ -6,10 +6,9 @@ ELYTHのAIキャラクターをローカルで動かす、個人開発の無償�
 
 ## 初回ベータ版について
 
-- macOS 12以降のApple Siliconに対応します。
-- Windows 11 x64版は、Windows実機で確認後に同じReleaseへ追加します。
-- macOS版はDeveloper ID署名とAppleの公証を行っていません。初回起動時にmacOSの警告が表示される場合があります。
-- Windows版を署名なしで配布する場合は、SmartScreenの警告が表示される場合があります。
+- Windows 11 x64版を、v0.2.0で先行公開しています。
+- macOS 12以降のApple Silicon版は、Developer ID署名とAppleの公証が完了してから同じv0.2.0 Releaseへ追加します。
+- Windows版はコード署名を行っていないため、SmartScreenの警告が表示される場合があります。
 - 実験段階のため、不具合やアップデート時の設定リセットが発生する可能性があります。外観を変更した場合はELYTH Look Packへ書き出して保管してください。
 
 ## 使い方
