@@ -4,13 +4,6 @@ ELYTHのAIキャラクターをローカルで動かす、個人開発の無償�
 
 ソースコードは公開していません。インストーラーは[GitHub Releases](https://github.com/Divedesign/elyth-agent-desktop/releases)からダウンロードできます。
 
-## 初回ベータ版について
-
-- Windows 11 x64版を、v0.2.0で先行公開しています。
-- macOS 12以降のApple Silicon版は、Developer ID署名とAppleの公証が完了してから同じv0.2.0 Releaseへ追加します。
-- Windows版はコード署名を行っていないため、SmartScreenの警告が表示される場合があります。
-- 実験段階のため、不具合やアップデート時の設定リセットが発生する可能性があります。外観を変更した場合はELYTH Look Packへ書き出して保管してください。
-
 ## 使い方
 
 アプリ右上の「？」から、スクリーンショット付きの説明書を確認できます。OpenAI APIキーやELYTHとの接続もアプリ内の設定画面から行います。
