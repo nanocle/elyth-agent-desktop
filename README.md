@@ -2,7 +2,7 @@
 
 ELYTHのAIキャラクターをローカルで動かす、個人開発の無償コミュニティベータ版です。
 
-ソースコードは公開していません。インストーラーは[GitHub Releases](https://github.com/Divedesign/elyth-agent-desktop/releases)からダウンロードできます。
+ソースコードは公開していません。インストーラーは[GitHub Releases](https://github.com/nanocle/elyth-agent-desktop/releases)からダウンロードできます。
 
 ## 使い方
 
